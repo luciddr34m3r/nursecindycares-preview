@@ -1072,7 +1072,7 @@ p:last-child { margin-bottom: 0; }
   }
 
   .hero-content {
-    padding: 100px 24px 48px;
+    padding: 100px 24px 72px;
     text-align: center;
   }
 
@@ -1080,8 +1080,7 @@ p:last-child { margin-bottom: 0; }
   .hero-sub { margin-left: auto; margin-right: auto; }
 
   .hero-image {
-    height: 50vw;
-    min-height: 300px;
+    display: none;
   }
 
   .about-grid,
